@@ -1,4 +1,5 @@
-import cv2
+
+import cv
 import os
 import numpy as np
 
